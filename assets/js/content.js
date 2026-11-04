@@ -234,11 +234,9 @@ window.SITE = {
   // EDUCATION
   // ----------------------------------------------------------
   education: [
-    { school: "Oregon Health & Science University, School of Medicine", degree: "Doctor of Medicine (MD) program", years: "2022 – 2025",
-      notes: ["Completed the two-year pre-clinical curriculum"] },
-    { school: "Portland State University, Honors College", degree: "Bachelor of Science in Biology, minor in Chemistry", years: "2015 – 2017",
-      notes: ["GPA 3.93, magna cum laude", "Honors thesis on measuring arthroscopic skill with wearable sensors"] },
-    { school: "Portland Community College", degree: "Associate of Science, transfer program", years: "2013 – 2015",
-      notes: ["GPA 4.0"] }
+    { school: "Oregon Health & Science University, School of Medicine", degree: "Doctor of Medicine (MD) program" },
+    { school: "Portland State University, Honors College", degree: "Bachelor of Science in Biology, minor in Chemistry",
+      notes: ["Magna cum laude"] },
+    { school: "Portland Community College", degree: "Associate of Science, transfer program" }
   ]
 };
