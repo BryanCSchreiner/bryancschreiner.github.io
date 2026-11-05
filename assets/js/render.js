@@ -27,6 +27,7 @@
 
   // About paragraphs
   var about = document.getElementById("about");
+  if ((S.about || []).length) about.innerHTML = "";
   (S.about || []).forEach(function (p) { about.appendChild(el("p", null, p)); });
 
   // Links
